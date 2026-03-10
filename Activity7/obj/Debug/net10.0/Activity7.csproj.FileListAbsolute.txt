@@ -1,0 +1,4 @@
+C:\Users\anzal\source\repos\Activity7\Activity7\obj\Debug\net10.0\Activity7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzal\source\repos\Activity7\Activity7\obj\Debug\net10.0\Activity7.AssemblyInfoInputs.cache
+C:\Users\anzal\source\repos\Activity7\Activity7\obj\Debug\net10.0\Activity7.AssemblyInfo.cs
+C:\Users\anzal\source\repos\Activity7\Activity7\obj\Debug\net10.0\Activity7.csproj.CoreCompileInputs.cache

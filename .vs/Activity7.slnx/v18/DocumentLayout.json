@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anzal\\source\\repos\\Activity7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\roboticskit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\roboticskit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|c:\\users\\anzal\\source\\repos\\activity7\\activity7\\activity7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E444B374-9C1D-2B87-D4E6-D968B01F1CC6}|Activity7\\Activity7.csproj|solutionrelative:activity7\\activity7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\CourseGroup.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\CourseGroup.cs",
+              "RelativeToolTip": "Activity7\\Models\\CourseGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:54:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Course.cs",
+              "RelativeToolTip": "Activity7\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:53:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoboticsKit.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\RoboticsKit.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\RoboticsKit.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\RoboticsKit.cs",
+              "RelativeToolTip": "Activity7\\Models\\RoboticsKit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:53:40.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Group.cs",
+              "RelativeToolTip": "Activity7\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:53:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\User.cs",
+              "RelativeToolTip": "Activity7\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:53:11.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Activity7\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Models\\Role.cs",
+              "RelativeToolTip": "Activity7\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:52:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Activity7\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\DatabaseConnection.cs",
+              "RelativeToolTip": "Activity7\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:52:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Program.cs",
+              "RelativeDocumentMoniker": "Activity7\\Program.cs",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Program.cs",
+              "RelativeToolTip": "Activity7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:50:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Activity7.csproj",
+              "DocumentMoniker": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Activity7.csproj",
+              "RelativeDocumentMoniker": "Activity7\\Activity7.csproj",
+              "ToolTip": "C:\\Users\\anzal\\source\\repos\\Activity7\\Activity7\\Activity7.csproj",
+              "RelativeToolTip": "Activity7\\Activity7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T03:51:30.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
