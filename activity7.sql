@@ -55,40 +55,72 @@ CREATE TABLE CourseGroups (
 );
 GO
 
+-- Roles
 INSERT INTO Roles (Name) VALUES
-('Student'),
+('Administrative'),
 ('Teacher'),
-('Administrator');
+('Student');
 GO
 
+-- Groups
 INSERT INTO Groups (Name) VALUES
 ('Beginner'),
 ('Intermediate'),
 ('Advanced');
 GO
 
+-- Robotics Kits
 INSERT INTO RoboticsKits (Name) VALUES
 ('StarterKit'),
 ('Educational Robotics Kit'),
 ('Kit5');
 GO
 
-INSERT INTO Courses (CourseKey, Title, Cover, Content, DidacticMaterial, RoboticsKitId) VALUES
-('Rob101', 'Introduction to Robotics', 'rob101.jpg', 'Basic concepts of robotics.', 'Starter guide and first practices.', 1),
-('Rob102', 'Introduction to Automation', 'rob102.jpg', 'Automation fundamentals.', 'Automation worksheets and exercises.', 1),
-('Rob103', 'Programming for Robotics', 'rob103.jpg', 'Programming logic for robots.', 'Programming examples and practices.', 2),
-('Rob104', 'Characteristics of a Robot', 'rob104.jpg', 'Main parts and features of robots.', 'Identification guide and activities.', 3);
-GO
-
+-- Users required by the activity
 INSERT INTO Users (Name, Email, Password, RoleId, GroupId) VALUES
-('Angel Student', 'angel@student.com', '123456', 1, 1),
-('Maria Teacher', 'maria@teacher.com', '123456', 2, NULL),
-('Luis Admin', 'luis@admin.com', '123456', 3, NULL);
+('Admon', 'admon@robotics.com', 'Adm@2022', 1, NULL),
+('Tecmilenio', 'tecmilenio@robotics.com', 'Adm@2022', 2, NULL),
+('Student', 'student@robotics.com', 'Adm@2022', 3, 1);
 GO
 
-INSERT INTO CourseGroups (CourseId, GroupId) VALUES
-(1, 1),
-(2, 1),
-(3, 2),
-(4, 3);
+-- 100 fake courses
+DECLARE @i INT = 1;
+
+WHILE @i <= 100
+BEGIN
+    INSERT INTO Courses (CourseKey, Title, Cover, Content, DidacticMaterial, RoboticsKitId)
+    VALUES (
+        'ROB' + RIGHT('000' + CAST(@i AS NVARCHAR(3)), 3),
+        'Robotics Course ' + CAST(@i AS NVARCHAR(10)),
+        'course' + CAST(@i AS NVARCHAR(10)) + '.jpg',
+        'This is the content for robotics course ' + CAST(@i AS NVARCHAR(10)) + '.',
+        'Didactic material for robotics course ' + CAST(@i AS NVARCHAR(10)) + '.',
+        CASE 
+            WHEN @i % 3 = 1 THEN 1
+            WHEN @i % 3 = 2 THEN 2
+            ELSE 3
+        END
+    );
+
+    SET @i = @i + 1;
+END;
+GO
+
+-- Assign courses to groups
+DECLARE @courseId INT = 1;
+
+WHILE @courseId <= 100
+BEGIN
+    INSERT INTO CourseGroups (CourseId, GroupId)
+    VALUES (
+        @courseId,
+        CASE
+            WHEN @courseId BETWEEN 1 AND 34 THEN 1
+            WHEN @courseId BETWEEN 35 AND 67 THEN 2
+            ELSE 3
+        END
+    );
+
+    SET @courseId = @courseId + 1;
+END;
 GO
